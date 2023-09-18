@@ -1,0 +1,72 @@
+
+
+
+
+.perro .contenedor {
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      height: 80vh;
+      width: 80%;
+
+
+}
+
+
+#perro img {
+      width: 70%;
+      height: 70%;
+  }
+
+
+
+
+#blog h3, h4 {
+             text-align: center;
+}
+
+#blog .contenedor{
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+}
+
+#blog article {
+              margin: 15px;
+}
+
+#blog img {
+          width: 100%;
+          max-width: 280px;
+
+}
+
+.comentario {
+      width: 85%;
+      margin: 0 auto;
+}
+
+.canicross img {
+      width: 200px;
+      height: 200px;
+      border-radius: 70%;
+}
+.canicros {
+          margin: 20px;
+}
+
+.paseo img {
+      width: 200px;
+      height: 200px;
+      border-radius: 70%
+       
+}
+.paseo {
+       margin:20px ;
+}
+
+.perro  img{
+      width: 50px;
+      height: 50px;
+      border-top-right-radius: 75%;
+}
